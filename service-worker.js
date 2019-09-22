@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/beautifulseconds/precache-manifest.cc9977ed58bd77c9833830e3b5fedf78.js"
+  "/beautifulseconds/precache-manifest.f15c38e2936ab695f58bacbf45a20a08.js"
 );
 
 self.addEventListener('message', (event) => {
