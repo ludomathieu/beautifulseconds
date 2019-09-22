@@ -6,7 +6,7 @@ function App() {
     <div className="app">
       <header className="app__header">
         <h1 className="app__title">
-          Beautiful seconds
+          Beautiful seconds pomme
         </h1>
       </header>
     </div>
