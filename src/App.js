@@ -14,6 +14,10 @@ function App() {
         </h6>
         <section>
           <Article
+            title={'November 2019'}
+            youtubeId={'q084ikgqOXI'}
+          />
+          <Article
             title={'October 2019'}
             youtubeId={'WFqmyB9ZGeg'}
           />
